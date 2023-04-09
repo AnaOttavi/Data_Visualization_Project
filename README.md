@@ -1,9 +1,11 @@
 <img width="418" alt="foto" src="https://user-images.githubusercontent.com/86486485/230795382-16c8dc73-3bad-499b-968b-f3ef10bd5f86.png">
 
-**Data Visualization Course
+**Data Visualization Course**
 Group Project 2022/2023
+
 Academic Year: 2020-2023 | 3rd Trimester
-Professor: Pedro Cabral**
+
+Professor: Pedro Cabral
 
 **"King County House Prices"
 This notebook uses the *kc_house_data.csv**
