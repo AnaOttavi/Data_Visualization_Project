@@ -61,5 +61,7 @@ sqft_living15 - The square footage of interior housing living space for the near
 sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
 **Verified from 2 sources:**
+
 https://www.slideshare.net/PawanShivhare1/predicting-king-county-house-prices
+
 https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
