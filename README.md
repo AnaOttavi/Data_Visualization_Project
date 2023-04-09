@@ -9,7 +9,6 @@ This notebook uses the *kc_house_data.csv**
 Group composed by:
 
 Ana Carolina Ottavi, nº 20220541
-
 Carolina Bezerra, nº 20220392
 
 Carolina Confraria, nº 20220711
