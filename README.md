@@ -1,3 +1,5 @@
+<https://raw.githubusercontent.com/AnaOttavi/Data_Visualization_Project/master/seattle.jpg>
+
 **Data Visualization Course
 Group Project 2022/2023
 Academic Year: 2020-2023 | 3rd Trimester
@@ -8,12 +10,7 @@ This notebook uses the *kc_house_data.csv**
 
 Group composed by:
 
-Ana Carolina Ottavi, nº 20220541
-Carolina Bezerra, nº 20220392
-
-Carolina Confraria, nº 20220711
-
-Daniella Camilato, nº 20221641
+Ana Carolina Ottavi nº 20220541, Carolina Bezerra nº 20220392, Carolina Confraria, nº 20220711, Daniella Camilato, nº 20221641.
 
 📖 **Introduction**
 Within the scope of Data Visualization, it was proposed a project, where the groups' ability to deliver a visualization in accordance with the different features included in a dataset. The data for this project was provided by King County, Washington. The data includes homes sold between May 2014 and May 2015
